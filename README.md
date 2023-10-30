@@ -1,1 +1,2 @@
-print("salom")
+
+# nima ga[ppppp]
